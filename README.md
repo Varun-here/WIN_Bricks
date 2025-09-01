@@ -1,18 +1,10 @@
-# Welcome to your Lovable project
+# Welcome to WIN Bricks Enterprise
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/c841b76e-be81-408e-ace7-2621bdcd22bb
+**URL**: https://win-bricks.vercel.app/
 
-## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/c841b76e-be81-408e-ace7-2621bdcd22bb) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -54,7 +46,7 @@ npm run dev
 
 This project is built with:
 
-- Vite
+- Vite("https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg")
 - TypeScript
 - React
 - shadcn-ui
