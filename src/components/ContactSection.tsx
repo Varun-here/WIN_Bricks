@@ -6,8 +6,10 @@ export const ContactSection = () => {
     {
       icon: "📞",
       label: "Phone",
-      value: "+91 9944556060",
-      href: "tel:+919944556060"
+      value: "+91 8754309667",
+      value: "+91 9965517595",
+      value: "+91 9087214214",
+      href: "tel:+918754309667"
     },
     {
       icon: "📧",
