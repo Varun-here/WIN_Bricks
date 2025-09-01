@@ -46,15 +46,10 @@ npm run dev
 
 This project is built with:
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,typescript,react,tailwindcss" />
   </a>
 </p>
 
-- Vite("https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg")
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
