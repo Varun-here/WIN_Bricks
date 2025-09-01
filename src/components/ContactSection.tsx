@@ -3,11 +3,11 @@ import { Button } from "@/components/ui/button";
 
 export const ContactSection = () => {
   const contactInfo = [
-    { icon: "📞", label: "Phone", value: "+91 8754309667", href: "tel:+918754309667" },
-    { icon: "📞", label: "Phone", value: "+91 9965517595", href: "tel:+919965517595" },
-    { icon: "📞", label: "Phone", value: "+91 9087214214", href: "tel:+919087214214" },
-  // ...other contact items (email, address, etc.)
-    ];
+    {
+      icon: "📞",
+      label: "Phone",
+      values: ["+91 8754309667", "+91 9965517595", "+91 9087214214"],
+    },
     {
       icon: "📧",
       label: "Email",
