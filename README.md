@@ -2,7 +2,9 @@
 
 ## Project info
 
-**URL**: https://win-bricks.vercel.app/
+**URL**: https://winbricks.shop
+
+-Had the project deployed in Vescel and made it online on the private domain with the DNS.
 
 
 
